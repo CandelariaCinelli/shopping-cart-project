@@ -2,6 +2,8 @@
 
 Aplicación de carrito de compras desarrollada con React, enfocada en la gestión de estado y la arquitectura de componentes en aplicaciones frontend modernas.
 
+🚀 Demo
+shopping-cart-project-beryl.vercel.app
 ---
 
 ## 📌 Descripción
